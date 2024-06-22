@@ -1,1 +1,1 @@
-# Data_Analysis_Of_Squirrels_In_Central_Park
+This project exemplifies my deep understanding of data analysis using pandas. By systematically reading, processing, and summarizing a large amount data, I efficiently achieved the goal of analyzing and reporting the distribution of squirrel fur colors in Central Park.
